@@ -3,9 +3,9 @@
 ### Установка
 
 Ubuntu 18.04/20.04/21.04:
-> git clone https://github.com/Robert565/pxollypy.git
-> cd pxollypy
-> python3 start.py
+> git clone https://github.com/Robert565/pxollypy.git <br/>
+> cd pxollypy <br/>
+> python3 start.py <br/>
 
-PythonAnyWhere:
+PythonAnyWhere: <br/>
 [Статья](https://vk.com/@662416179-installing-webhook)
