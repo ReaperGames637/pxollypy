@@ -16,7 +16,7 @@ class Captcha(Exception):
 class API:
     __slots__ = ['session', 'app_id', 'v', 'token', 'data', 'owner_id', 'kwargs', 'url_api']
 
-    def __init__(self, token, app_id=6146827, v="5.130", proxies=None):
+    def __init__(self, token, app_id=6146827, v="5.162", proxies=None):
         self.session = requests.Session()
         self.session.headers.update({'User-Agent': 'API'})
         if proxies is not None:

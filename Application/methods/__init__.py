@@ -1,5 +1,6 @@
 import os
 from Application.utils.handler import HandlerSignals
+from Application.utils.API import ErrorVK
 
 Signals = HandlerSignals()
 reg_signal = Signals.reg_signal
